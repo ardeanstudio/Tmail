@@ -33,9 +33,10 @@ Sistem penerima email sementara multi-domain. Dibuat menggunakan Laravel.
 Berikut adalah langkah-langkah dengan tangkapan layar cPanel yang merupakan salah satu panel kontrol hosting terpopuler. Namun, langkah-langkah ini dapat ditransfer ke panel kontrol mana pun yang Anda gunakan.
 
 ## Unggah File
-- Buka zip file yang Anda unduh dari CodeCanyon.
-- Anda akan menemukan nama file Files.zip
-- Unggah file itu di File Manager dan Unzip
+- Buka zip file yang Anda unduh dari Github ini.
+- Anda akan menemukan nama file
+- Unggah file tersebut di File Manager dan Unzip
+
 ![Screenshot](https://i.imgur.com/E9Yw34v.png)
 
 ![Screenshot](https://docs.tmail.thehp.in/assets/images/file_manager_upload.png)
